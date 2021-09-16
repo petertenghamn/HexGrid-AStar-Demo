@@ -3,7 +3,7 @@ Demo to illustrate the function of an A* pathfinding system on a hex based grid.
 This concept shown was made a while back when I was starting to pick up programing so there are some things that should be refactored if you are interested in implementing this concept.
 - In this build, a majority of functions go through one class, the game controller. Spreading out the functionality and making the classes less dependent on this one class will help with the overall structure of your own project. My own creations after this one did improve upon this too.
 
-```
+---
 
 How To:
 
